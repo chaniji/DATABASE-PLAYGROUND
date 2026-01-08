@@ -35,7 +35,7 @@ A browser-based SQL database playground with a classic Macintosh user interface.
 
 ## Live Demo
 
-[View Live Project](#)
+[View Live Project](https://database-playground.vercel.app/)
 
 ## Usage
 
