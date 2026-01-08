@@ -376,7 +376,7 @@ b.innerHTML = `
   <div class="content">
     <div class="section">
       <div class="label">▶ SQL Query:</div>
-      <textarea id="queryInput" class="textarea" placeholder="Enter SQL query...">SELECT * FROM users;</textarea>
+      <textarea id="queryInput" class="textarea" placeholder="Enter SQL query..."></textarea>
     </div>
     <div class="button-row">
       <button class="btn btn-primary" id="ExecuteButton">
